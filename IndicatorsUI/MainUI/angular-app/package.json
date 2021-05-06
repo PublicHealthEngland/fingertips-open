@@ -32,7 +32,7 @@
     "classlist.js": "^1.1.20150312",
     "core-js": "^2.6.11",
     "floatthead": "^2.1.4",
-    "highcharts": "^6.2.0",
+    "highcharts": "^9.0.0",
     "highcharts-angular": "^2.3.1",
     "https-browserify": "^1.0.0",
     "jquery": "^1.12.4",
